@@ -9,7 +9,7 @@
 
 
 from PyQt5 import QtCore, QtWidgets
-from vtk.qt.QVTKRenderWindowInteractor import QVTKRenderWindowInteractor
+from vtkmodules.qt.QVTKRenderWindowInteractor import QVTKRenderWindowInteractor
 
 
 class Ui_MainWindow(object):
